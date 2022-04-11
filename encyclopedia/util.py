@@ -35,3 +35,12 @@ def get_entry(title):
         return f.read().decode("utf-8")
     except FileNotFoundError:
         return None
+
+
+def list_subEntries(title):
+    filenames= list_entries()
+    filteredFileNames=[]
+    for filename in filenames : 
+       if re.search(title, filename, re.IGNORECASE):
+           filteredFileNames.append(filename)
+    return filteredFileNames
