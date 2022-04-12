@@ -1,2 +1,6 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7593596&assignment_repo_type=AssignmentRepo)
-# project1-2021
+# wiki
+
+  This project will hopefully demonstrate my knowledge of Django python framework.
+  
+  also, it is a homework in "CS50’s Web Programming with Python and JavaScript" course at Harvard University.
+
